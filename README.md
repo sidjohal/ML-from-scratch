@@ -1,10 +1,9 @@
 # ML-from-scratch
-
 Building ML models from scratch using Numpy
 
-SUPERVISED 
-  Regression
-  Classification 
+## SUPERVISED 
+-   Regression
+-   Classification 
 
-## Regression//
+### Regression//
 1. (Multiple) Linear regression
