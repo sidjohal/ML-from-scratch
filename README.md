@@ -1,6 +1,6 @@
 # ML-from-scratch
 
-Building famous ML models from scratch using Numpy
+Building ML models from scratch using Numpy
 
 SUPERVISED 
   Regression
